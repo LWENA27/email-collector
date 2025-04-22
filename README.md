@@ -21,3 +21,5 @@ This project is a simple web application that collects email addresses from user
 ---
 
 ## Project Structure
+
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/LWENA27.svg)](https://user-badge.committers.top/tanzania_private/LWENA27)
